@@ -3,6 +3,7 @@
 ## Overview
 This project is a **Data Analyst portfolio project** focused on analyzing Spotify listening data using **Power BI**.
 The objective is to explore listening behavior, identify trends, and transform raw data into meaningful insights through clear and interactive dashboards.
+Project completed as part of a Power BI course.
 
 ## Business Questions Addressed
 - How does listening activity change over time?
