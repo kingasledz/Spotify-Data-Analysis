@@ -30,7 +30,7 @@ The Power BI report includes:
 - Interactive dashboards
 
 ## Dashboard Preview
-Dashboard screenshots are included in this repository.
+
 ### Overview
 ![Overview](Screenshots/Overview.png)
 
