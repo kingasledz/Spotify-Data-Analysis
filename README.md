@@ -29,7 +29,13 @@ The Power BI report includes:
 - Data cleaning & transformation
 - Interactive dashboards
 
-## Preview
+## Dashboard Preview
 Dashboard screenshots are included in this repository.
+### Overview
+![Overview](Screenshots/Overview.png)
 
----
+### Listening Patterns
+![Listening Patterns](Screenshots/Listening_Patterns.png)
+
+### Details_Grid
+![Details_Grid](Screenshots/Details_Grid.png)
